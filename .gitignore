@@ -1,0 +1,22 @@
+# Secrets / local env
+.env
+.env.*
+*.pem
+*.key
+
+# Word / Office lock and temp files
+~$*
+*.tmp
+Thumbs.db
+Desktop.ini
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
